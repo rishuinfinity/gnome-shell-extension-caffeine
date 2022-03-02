@@ -13,9 +13,9 @@ This extension supports gnome-shell 3.4 to 41
 * gnome-shell-3.10-3.30: 3.10 -> 3.30
 * gnome-shell-before-3.10: 3.4 -> 3.8
 
-![Screenshot](https://github.com/eonpatapon/gnome-shell-extension-caffeine/raw/master/screenshot.png)
+![Screenshot](https://github.com/rishuinfinity/gnome-shell-extension-caffeine/raw/master/screenshot.png)
 
-![Preferences](https://github.com/eonpatapon/gnome-shell-extension-caffeine/raw/master/screenshot-prefs.png)
+![Preferences](https://github.com/rishuinfinity/gnome-shell-extension-caffeine/raw/master/screenshot-prefs.png)
 
 Empty circle = normal auto suspend and screensaver. Filled circle = auto suspend and
 screensaver off.

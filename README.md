@@ -1,8 +1,9 @@
-# This extension is barely maintained anymore. New maintainers are welcome!
+# I just didn't like the Icons It used, I like my panel small and current icon was barely visible, So I changed them, there are no further changes
+### If you wanna put these icons in your currently installed extension, copy my icons and put it inside ~/.local/share/gnome-shell/extensions/caffeine@patapon.info/icons
 
 ## gnome-shell-extension-caffeine
 
-Fill the cup to inhibit auto suspend and screensaver.
+Click to inhibit auto suspend and screensaver.
 
 This extension supports gnome-shell 3.4 to 41
 
@@ -26,7 +27,7 @@ https://extensions.gnome.org/extension/517/caffeine/
 ## Installation from git
 
 ```sh
-git clone git://github.com/eonpatapon/gnome-shell-extension-caffeine.git
+git clone git://github.com/rishuinfinity/gnome-shell-extension-caffeine.git
 cd gnome-shell-extension-caffeine
 ./update-locale.sh
 glib-compile-schemas --strict --targetdir=caffeine@patapon.info/schemas/ caffeine@patapon.info/schemas

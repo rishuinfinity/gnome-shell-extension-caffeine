@@ -17,7 +17,7 @@ This extension supports gnome-shell 3.4 to 41
 
 ![Preferences](https://github.com/eonpatapon/gnome-shell-extension-caffeine/raw/master/screenshot-prefs.png)
 
-Empty cup = normal auto suspend and screensaver. Filled cup = auto suspend and
+Empty circle = normal auto suspend and screensaver. Filled circle = auto suspend and
 screensaver off.
 
 ## Installation from e.g.o

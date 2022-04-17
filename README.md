@@ -20,9 +20,6 @@ This extension supports gnome-shell 3.4 to 41
 Empty circle = normal auto suspend and screensaver. Filled circle = auto suspend and
 screensaver off.
 
-## Installation from e.g.o
-
-https://extensions.gnome.org/extension/517/caffeine/
 
 ## Installation from git
 
